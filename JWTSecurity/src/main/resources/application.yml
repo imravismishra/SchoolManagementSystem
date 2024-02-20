@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: jwtsecurity
+  config:
+    import: optional:configserver:http://localhost:8888
+    
+secret_key : 4UvxMmIHxJ713Vee2uncljQ9U4GGMQfz0vQsgN7q0e2YJAE7zJmT/8fSv+sXLZGt
+
+
+      
+     
+
+  
